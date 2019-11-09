@@ -16,7 +16,7 @@ Working:
 	
 	2. Open the output folder for "merge1.json" output file.
 	
-Time complexity
+Time complexity:
 
 	O(n^2).
 	
