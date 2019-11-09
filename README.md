@@ -1,6 +1,6 @@
 Operating System:
 
-	Windows
+	Windows.
 
 File loction: 
 
